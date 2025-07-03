@@ -4,20 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "c27a15ac92589fe8",
+        "id": "1d6a2b6968cc8f85",
         "type": "tabs",
         "children": [
           {
-            "id": "02574bdfa8208cb5",
+            "id": "130bf95d59219935",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "imagenes/Pasted image 20250703131233.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250703131233"
+            }
+          },
+          {
+            "id": "ede47b4b28d7b806",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "imagenes/Pasted image 20250703131443.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250703131443"
+            }
+          },
+          {
+            "id": "8316d0b8d513b4a7",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "imagenes/Pasted image 20250703131356.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250703131356"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -163,12 +190,25 @@
   },
   "active": "ade82efcf97116a1",
   "lastOpenFiles": [
-    "imagenes/Pasted image 20250702195520.png",
-    "imagenes/Pasted image 20250702193211.png",
-    "imagenes/Pasted image 20250702193259.png",
-    "Pasted image 20250702194435.png",
-    "README.md",
+    "imagenes/Pasted image 20250703131443.png",
+    "8Análisis de sistemas orientado a objetos.md",
+    "imagenes/Pasted image 20250703131356.png",
+    "imagenes/Pasted image 20250703131233.png",
+    "imagenes/Pasted image 20250703125759.png",
+    "imagenes/Pasted image 20250703125855.png",
+    "7UML Lenguaje de modelado unificado.md",
+    "imagenes/Pasted image 20250703131156.png",
+    "imagenes/Pasted image 20250703131043.png",
+    "imagenes/Pasted image 20250703130959.png",
+    "imagenes/Pasted image 20250703130929.png",
+    "imagenes/Pasted image 20250703130926.png",
     "Captura de requisitos/1Intro.md",
+    "6Metamodelo y modelos.md",
+    "5CASE TOOLS Rastreo de requisitos.md",
+    "4Ingenieria de requerimientos.md",
+    "3Modelo de negocio.md",
+    "2Modelo de dominio.md",
+    "README.md",
     "Captura de requisitos"
   ]
 }
