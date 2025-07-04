@@ -2,7 +2,8 @@
   "theme": "moonstone",
   "interfaceFontFamily": "Ubuntu,Ubuntu Mono",
   "baseFontSize": 15,
-  "enabledCssSnippets": [
-    "ubuntuFont"
-  ]
+  "enabledCssSnippets": [],
+  "textFontFamily": "Ubuntu",
+  "monospaceFontFamily": "Ubuntu Mono",
+  "accentColor": "#ffac38"
 }

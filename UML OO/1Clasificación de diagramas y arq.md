@@ -1,4 +1,4 @@
-Para leer este diagrama que está clasificado en tipos de vista (estática, dinámica, despliegue) y dentro de cada vista con los diagramas que se balancea (ej; vista estatica-> d.Clases) luego del diagrama viene la funcionalidad de dicho diagrama, o sea, una descripción. Luego de la descripción viene (lo ultimo, las hojas) de cada diagrama son los recursos que utiliza. 
+Para leer este diagrama que está clasificado en tipos de vista (estática, dinámica, despliegue) y dentro de cada vista con los diagramas que se balancea (ej; vista estática-> d.Clases) luego del diagrama viene la funcionalidad de dicho diagrama, o sea, una descripción. Luego de la descripción viene (lo ultimo, las hojas) de cada diagrama son los recursos que utiliza. 
 
 ![[Pasted image 20250703194807.png]]
 
@@ -45,6 +45,6 @@ La arquitectura es un conjunto de modelos organizados (en vistas) y consistentes
 ### Arq. del proceso unificado (descripión de la Arq.)
 
 ![[Pasted image 20250703200802.png]]
-### Diagramos usudos
+### Diagramas usados
 
 ![[Pasted image 20250703200824.png]]

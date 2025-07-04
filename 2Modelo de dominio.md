@@ -2,7 +2,6 @@ El modelo de dominio captura específicamente los objetos/clases conceptuales m�
 
 *El fin del modelo de dominio es comprender el "dominio de información", que info manejará el sistema y de que forma.* 
 
-
 #### Objetos / clases conceptuales
 Es aquello de lo cual es relevante guardar información "es mejor especificar en exceso un modelo de dominio con muchas clases conceptuales de gromo fino que especificar por defecto" 
 
@@ -11,14 +10,10 @@ Es aquello de lo cual es relevante guardar información "es mejor especificar en
 * **sucesos**: que ocurrirán o han ocurrido
 
 Estos tienen atributos (propiedades) → futuras variables primitivas → Un atributo no puede tener + de 1 valor, sino se separa en clases
-
 #### Fuentes de información 
-
 * captura de requisitos
 * relevamiento 
-
 #### Mecanismos de abstracción 
-
 * Clasificación -> determinar clases, objetos y atributos. 
 * Asociación -> relación de un objeto con otro de su misma clase o de otra. 
 
