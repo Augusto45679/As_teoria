@@ -27,18 +27,15 @@ Contener información en un paquete reutilizable de nombre específico.
 
 _**Supone:**_
 
-- Alta cohesión → Grado en que los elementos de un módulo permanecen juntos
-- Bajo acoplamiento → Forma y grado de interdependencia entre módulos.
-- - cohesión → - acoplamiento
+- **Alta cohesión** → Grado en que los elementos de un módulo permanecen juntos
+- **Bajo acoplamiento** → Forma y grado de interdependencia entre módulos.
+- **cohesión** → - acoplamiento
 
 > Las clases se “autoabastecen” porque agrupan todos los datos que requieren y todas las operaciones que puedan afectarlos.
 
 _**Ventajas:**_
-
 - Ocultamiento de información → reduce propagación de efectos colaterales.
 - Reutilización de componentes.
 - Interfaces entre objetos simplificados.
-
 ### Polimorfismo
-
 Operaciones distintas con mismo nombre → - acoplamiento

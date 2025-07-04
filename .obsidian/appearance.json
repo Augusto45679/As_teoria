@@ -1,1 +1,8 @@
-{}
+{
+  "theme": "moonstone",
+  "interfaceFontFamily": "Ubuntu,Ubuntu Mono",
+  "baseFontSize": 15,
+  "enabledCssSnippets": [
+    "ubuntuFont"
+  ]
+}
