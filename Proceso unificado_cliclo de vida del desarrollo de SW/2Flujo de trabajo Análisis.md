@@ -36,3 +36,8 @@ El objetivo de esta clasificación es distribuir las tareas del equipo.
 
 ![[Pasted image 20250704124712.png]]
 
+![[Pasted image 20250704172724.png]]
+
+![[Pasted image 20250704172730.png]]
+
+![[Pasted image 20250704172735.png]]
