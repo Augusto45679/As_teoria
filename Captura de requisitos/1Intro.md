@@ -75,10 +75,35 @@ Artefacto = producto
 
 ## Flujo de trabajo captura de requisitos
 
+El propósito fundamental del **flujo de trabajo en los requisitos** es *guiar el desarrollo hacia el sistema correcto*. Esto se consigue mediante una descripción de los requisitos del sistema (condiciones o capacidades que el sistema debe cumplir) suficientemente buena como para que pueda llegarse a un acuerdo entre el cliente (usuario) y los desarrolladores sobre qué debe y qué no debe hacer el sistema. Los resultados del flujo de trabajo de los requisitos también ayudan al jefe de proyectos a planificar las iteraciones y las versiones del cliente.
+
 ![[Pasted image 20250703125855.png]]
 
 Workflow de análisis de sistemas: 
 1. Arquitecto -> analisis de Arq.
 2. Ing de CU -> analizar un cu
 3. ing. de componentes -> analizar una clase -> analizar un paquete 
+
+## Modelo de negocio vs modelo de dominio 
+
+![[Pasted image 20250707181045.png]]
+
+#### Modelo de dominio
+
+Un modelo de dominio captura los tipos más importantes de objetos en el contexto del sistema. Los objetos del dominio representan las cosas que existen o los eventos que suceden en el entorno en el que trabaja el sistema.
+Muchos de los objetos del dominio o clases pueden obtenerse de una especificación de requisitos o mediante la entrevista con los expertos del dominio. Las clases del dominio aparecen en tres formas típicas:
+• Objetos del negocio que representan cosas que se manipulan en el negocio.
+• Objetos del mundo real y conceptos de los que el sistema debe hacer un seguimiento.
+• Sucesos que ocurrirán o han ocurrido.
+El modelo del dominio se representa mediante diagramas de UML.
+
+#### Modelo de negocio
+
+Comprende y describe los procesos de negocio de la organización. El objetivo es identificar los casos de uso software y las entidades de negocio relevantes que el software debe soportar
+Está soportado por 2 tipos de modelos:
+• **Modelo de casos de uso**: describe los procesos
+• **Modelo de objetos**: describe cómo se llevan a cabo los procesos cuando un conjunto de trabajadores utilizan las entidades del negocio y las unidades de trabajo.
+	o *Trabajadores del negocio*: son los actores.
+	o *Entidad del negocio*: representa algo que los trabajadores utilizan en un caso de uso.
+	o *Unidad de trabajo*: conjunto de entidades. 
 
