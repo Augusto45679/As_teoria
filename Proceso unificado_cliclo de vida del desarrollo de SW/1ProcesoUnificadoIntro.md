@@ -1,18 +1,60 @@
 UML no está ligado a ningún ciclo de vida de desarrollo de software particular. Sin embargo la metodología del proceso unificado usa UML. Esta metodología es _**dirigida por un plan y evolutiva.**_
 
+Es un proceso de desarrollo de software. Un proceso de desarrollo de software *es el conjunto de actividades necesarias para transformar los requisitos de un usuario en un sistema software*.
+El proceso unificado es un **marco de trabajo genérico que puede especializarse para una gran variedad de sistemas de software, para diferentes áreas de aplicación, diferentes tipos de organizaciones, diferentes niveles de aptitud y diferentes tamaños de proyecto**.
+Está basado en *componentes*, lo cual quiere decir que el sistema software en construcción está formado por componentes software interconectados a través de interfaces bien definidas.
+El proceso unificado utiliza el ***Lenguaje Unificado de Modelado (UML)***, para preparar todos los esquemas de un sistema software.
+
+#### Características 
 Para obtener el máximo beneficio del proceso debe ser:
 
 - **Dirigido por Casos de Uso:** Es decir, que primero _(las entradas del proceso unificado son CU_) se determina el comportamiento deseado del sistema _(centro = cliente)_, y luego los casos de uso son el criterio fundamental para verificar y validar las Arq., para las pruebas, y para la comunicación entre los involucrados en el proyecto.
+	El término usuario no sólo hace referencia a usuarios sino a otros sistemas. En este sentido “usuario” representa alguien o algo que interactúan con el sistema que estamos desarrollando. Una interacción de este tipo es un caso de uso. Un caso de uso es un fragmento de funcionalidad del sistema que proporciona al usuario un resultado importante. Los casos de uso representan los requisitos funcionales y constituyen el modelo de casos de uso, el cual describe la funcionalidad total del sistema.
+	Los casos de uso son herramientas para especificar los requisitos de un sistema, además guían su diseño, implementación y prueba, es decir, guían el proceso de desarrollo.
+	Los casos de uso no sólo inician el proceso de desarrollo sino que le proporcionan un hilo conductor. Dirigido por casos de uso significa que el desarrollo sigue un “hilo”. Los casos de uso se especifican, se diseñan y los casos de uso finales son la fuente de la cual los ingenieros de prueba construyen sus casos de prueba.
+	Los CU dan soporte a la trazabilidad entre modelos
 
-Los CU dan soporte a la trazabilidad entre modelos
+- **Centrado en la Arquitectura:** Es decir, este es el artefacto básico usado para conceptualizar, gestionar y hacer evolucionar el sistema → un conjunto de vistas en el método que propone el proceso unificado para desarrollar SW centrado en CU. 
 
-- **Centrado en la Arquitectura:** Es decir, este es el artefacto básico usado para conceptualizar, gestionar y hacer evolucionar el sistema → un conjunto de vistas en el método que propone el proceso unificado para desarrollar SW centrado en CU
+La arquitectura en un sistema de software se describe mediante diferentes vistas del sistema en construcción. El concepto de arquitectura de software incluye los aspectos estáticos y dinámicos más significativos del sistema.
+La arquitectura surge de las necesidades de la empresa, como las perciben los usuarios y los inversores y se refleja en los casos de uso.
+
+La arquitectura es una vista del diseño completo con las características más importantes resaltadas, dejando los detalles de lado. El proceso ayuda al arquitecto a centrase en los objetivos adecuados, como la comprensibilidad, la capacidad de adaptación al cambio y la reutilización. 
+
+Cada producto tiene tanto una función como una forma. La función corresponde a los casos de uso y la forma a la arquitectura. Por ello debe haber interacción entre ellos y deben evolucionar en paralelo.
+
+Los arquitectos modelan el sistema para darle una forma, por eso, es la arquitectura la que debe diseñarse para permitir que el sistema evolucione en su desarrollo inicial y a lo largo de las futuras generaciones. Para encontrar esta forma los arquitectos deben trabajar sobre casos de uso clave del sistema.
+
 - **Proceso iterativo e incremental:** Involucra la gestión de un flujo de artefactos, ejecutables (comunicación continua con el cliente) y cada artefacto mejora a los anteriores → “Dirigido por el resigo” cada vez este se reduce más.
+
+***Iterativo***
+*Hace referencia a repetir el flujo de trabajo, se realiza una y otra vez.*
+
+***Incremental***
+• Los incrementos hacen referencia al crecimiento de la producción.
+• Se pueden crear versiones del sistema e ir mejorándolas.
+• Termina una actividad y entrega un incremento, una versión que "puede operar".
+
+**Ventajas**
+• Se obtiene un producto sólido
+• Reduce costos
+• Reduce tiempos
+• Permite reducir riesgos
 
 ![[Pasted image 20250704115800.png]]
 El modelo de análisis es un *modelo conceptual cuyo fin es acrecentar la composición de los CU y por ende el sistema*. Puede durar toda la vida del sistema. Son “realizaciones de CU” son base para el diseño.
 
 ![[Pasted image 20250704115851.png]]
+El proceso unificado se repite a lo largo de una serie de ciclos que constituyen la vida de un sistema. Cada ciclo concluye con una versión del producto para los clientes y consta de cuatro fases:
+
+1. ***Fase de inicio***: se desarrolla una descripción del producto final a partir de una buena idea y se presenta el análisis de negocio para el producto.
+2. ***Fase de Elaboración***: se especifican en detalle la mayoría de los casos de uso del producto y se diseña la arquitectura del sistema. El resultado de esta fase es una línea base de la arquitectura, y la disposición del director de planificar las actividades y estimar los recursos necesarios para terminar el proyecto.
+3. ***Fase de Construcción***: se crea el producto. Aquí la línea base de la arquitectura crece hasta convertirse en el sistema completo. Al final de esta fase, el producto tiene todos los casos de uso que la dirección y el cliente han acordado para el desarrollo de esta versión. Sin embargo, puede tener defectos.
+4. ***Fase de Transición***: cubre el periodo comprendido durante el cual el producto se convierte en versión beta. Esta fase corrige errores antes de la entrega. El equipo de mantenimiento divide los errores en 2 categorías: los que tienen suficiente impacto en la operación para justificar una versión incrementada y los que pueden corregirse en la siguiente versión normal.
+
+Cada fase se subdivide a su vez en iteraciones o mini proyectos y cada iteración pasa por los 5 flujos de trabajo fundamentales: **Captura de requisitos, Análisis, Diseño, Implementación, Prueba**
+
+![[Pasted image 20250707125659.png]]
 
 ## Etapa de análisis
 

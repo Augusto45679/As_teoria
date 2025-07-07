@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "1Clasificación de diagramas y arq"
             }
+          },
+          {
+            "id": "27a64d4e410a316e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Captura de requisitos/1Intro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1Intro"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f5b2ad216b91e844",
@@ -165,8 +181,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ade82efcf97116a1",
+  "active": "27a64d4e410a316e",
   "lastOpenFiles": [
+    "Proceso unificado_cliclo de vida del desarrollo de SW/1ProcesoUnificadoIntro.md",
+    "Pasted image 20250707125659.png",
+    "9Ing sistemas vs software.md",
+    "UML OO/1Clasificación de diagramas y arq.md",
     "2Modelo de dominio.md",
     "3Modelo de negocio.md",
     "4Ingenieria de requerimientos.md",
@@ -188,12 +208,9 @@
     "Proceso unificado_cliclo de vida del desarrollo de SW/6Pasando al diseño.md",
     "imagenes/Pasted image 20250704174415.png",
     "imagenes/Pasted image 20250704174233.png",
-    "imagenes/Pasted image 20250704173243.png",
     "Proceso unificado_cliclo de vida del desarrollo de SW/5Algunos diagramas.md",
     "Proceso unificado_cliclo de vida del desarrollo de SW/4Modelos de desarrollo.md",
     "Proceso unificado_cliclo de vida del desarrollo de SW/3Realización de CU.md",
-    "UML OO/1Clasificación de diagramas y arq.md",
-    "Proceso unificado_cliclo de vida del desarrollo de SW/1ProcesoUnificadoIntro.md",
     "Proceso unificado_cliclo de vida del desarrollo de SW/2Flujo de trabajo Análisis.md",
     "Sin título 1.md",
     "README.md",

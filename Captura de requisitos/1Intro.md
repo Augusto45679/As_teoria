@@ -1,3 +1,6 @@
+La captura de requisitos es el proceso de averiguar, normalmente en circunstancias difíciles, lo que se debe construir. Este proceso por lo general es complicado y difícil ya que con frecuencia los usuarios no saben cuáles son los requisitos ni tampoco cómo especificarlos de una manera precisa. A medida que el proyecto avanza, los usuarios, los intermediarios y los desarrolladores pueden ver como parece el sistema y por tanto llegan a comprender mejor las verdaderas necesidades y surgen una gran cantidad de cambios.
+Es importante que los sistemas den soporte a la misión para la cual se construyen, es decir, el sistema debe proporcionar valor al negocio que lo utiliza y a sus clientes.
+
 **Flujo de trabajo de la captura de requisitos**:
 * Enumerar los requisitos candidatos
 * Comprender el contexto del sistema
