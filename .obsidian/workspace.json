@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UML OO/1Clasificación de diagramas y arq.md",
+                "file": "3Modelo de negocio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1Clasificación de diagramas y arq"
+              "title": "3Modelo de negocio"
             }
           }
         ]
@@ -165,11 +165,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ade82efcf97116a1",
+  "active": "885105a24410b033",
   "lastOpenFiles": [
+    "2Modelo de dominio.md",
+    "3Modelo de negocio.md",
+    "9Ing sistemas vs software.md",
+    "8Análisis de sistemas orientado a objetos.md",
     "10Metodologias agiles v2.md",
-    "imagenes/Pasted image 20250707191009.png",
+    "4Ingenieria de requerimientos.md",
+    "PLANIFICACIÓN ESTUDIO Y CONSULTAS.md",
+    "README.md",
+    "imagenes/Pasted image 20250721105519.png",
+    "Proceso unificado_cliclo de vida del desarrollo de SW/1ProcesoUnificadoIntro.md",
+    "imagenes/Pasted image 20250721105328.png",
+    "Captura de requisitos/1Intro.md",
     "UML OO/1Clasificación de diagramas y arq.md",
+    "imagenes/Pasted image 20250707191009.png",
     "imagenes/Pasted image 20250707184902.png",
     "imagenes/Pasted image 20250707184405.png",
     "Proceso unificado_cliclo de vida del desarrollo de SW/2Flujo de trabajo Análisis.md",
@@ -180,27 +191,17 @@
     "6Metamodelo y modelos.md",
     "imagenes/Pasted image 20250707181045.png",
     "imagenes/Pasted image 20250707125659.png",
-    "4Ingenieria de requerimientos.md",
-    "Captura de requisitos/1Intro.md",
-    "3Modelo de negocio.md",
-    "2Modelo de dominio.md",
-    "Proceso unificado_cliclo de vida del desarrollo de SW/1ProcesoUnificadoIntro.md",
-    "9Ing sistemas vs software.md",
     "5CASE TOOLS Rastreo de requisitos.md",
     "7UML Lenguaje de modelado unificado.md",
-    "8Análisis de sistemas orientado a objetos.md",
     "imagenes/Pasted image 20250704180322.png",
     "Metodologías agiles/3Historias de usuario.md",
     "imagenes/Pasted image 20250704175917.png",
     "imagenes/Pasted image 20250704175510.png",
-    "imagenes/Pasted image 20250704175110.png",
-    "imagenes/Pasted image 20250704175145.png",
     "Metodologías agiles",
     "Proceso unificado_cliclo de vida del desarrollo de SW/6Pasando al diseño.md",
     "Proceso unificado_cliclo de vida del desarrollo de SW/5Algunos diagramas.md",
     "Proceso unificado_cliclo de vida del desarrollo de SW/4Modelos de desarrollo.md",
     "Sin título 1.md",
-    "README.md",
     "Proceso unificado_cliclo de vida del desarrollo de SW",
     "UML OO",
     "Captura de requisitos"

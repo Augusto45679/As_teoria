@@ -11,8 +11,8 @@ Es aquello de lo cual es relevante guardar información "es mejor especificar en
 
 Estos tienen atributos (propiedades) → futuras variables primitivas → Un atributo no puede tener + de 1 valor, sino se separa en clases
 #### Fuentes de información 
-* captura de requisitos
-* relevamiento 
+* Captura de requisitos
+* Relevamiento 
 #### Mecanismos de abstracción 
 * Clasificación -> determinar clases, objetos y atributos. 
 * Asociación -> relación de un objeto con otro de su misma clase o de otra. 
